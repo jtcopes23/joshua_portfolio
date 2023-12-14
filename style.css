@@ -1,0 +1,128 @@
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+    width: 100%;
+    justify-content: right;
+    
+}
+}
+/*********
+   coment
+**********/
+body{
+    font-family: sans-serif;
+}
+body.nav-{
+    color: blue;
+}
+
+.font-primary{
+    color: rgb(5, 243, 5);
+}
+.title-icon{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.font-color{
+    color: rgb(250, 181, 53);
+}
+
+
+
+/**********
+about
+**********/
+#about{
+    margin: 60px auto;
+    max-width: 400px;
+    text-align: center;
+}
+#about .font-color{
+    color: rgb(179, 253, 179);
+}
+
+#about .img{
+    border-radius: 50%;
+    width: 120px;
+    margin: 10px;
+}
+
+#about .name{
+    font-size: 19px;
+    color: blueviolet;
+
+}
+#about .vocation{
+    font-size: 17px;
+    color: rgb(246, 116, 116);
+    margin-bottom: 10px;
+}
+#about .skills{
+    font-size: 15px;
+    color: rgb(8, 244, 8);
+    margin-bottom: 10px;
+}
+#about .email{
+    margin-top: 14px;
+    font-size: 30px;
+    color: rgb(183, 223, 103);
+}
+#about .icon{
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#about .icon a {
+    color: rgb(4, 245, 4);
+}
+
+p{
+    font-size: 14px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+a.font-black{
+    color: black !important;
+}
+/*********
+Project
+*********/
+
+#projects{
+    margin: 60px;
+    width: 80;
+}
+#project h2{
+    text-align: center;
+}
+
+#project .card img{
+    width: 100%;
+}
+
+#project .card-title{
+    font-weight: bold;
+    color: pink;
+}
+
+#project .font-primary{
+    color: rgb(4, 245, 4);
+}
+
+#project .card-text{
+    color: rgb(169, 250, 169);
+}
+
+#project .text{
+    color: rgb(74, 247, 160);
+}
+
+#project .btn{
+    color: rgb(89, 248, 248);
+}
